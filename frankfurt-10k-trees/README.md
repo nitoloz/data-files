@@ -24,7 +24,7 @@ The dashboard provides the following features:
 - Interactive maps showing the location of trees.
 - Additional insights into the Frankfurt Tree Cadaster dataset.
 
-![Dashboard Screenshot](frankfurt-10k-trees/screenshot.png)
+![Dashboard Screenshot](screenshot.png)
 
 ## Notes
 

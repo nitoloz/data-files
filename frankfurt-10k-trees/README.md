@@ -3,6 +3,8 @@
 This dashboard is designed to visualize data from the Frankfurt Tree Cadaster using Python with Anaconda Cloud Notebooks. 
 It provides an interactive interface to explore information about trees in Frankfurt.
 
+**Try it out live [here](https://bright-black-speckled-palm-pitviper.anacondaapps.cloud)**
+
 ## Instructions
 
 You can either download file from here or use the Anaconda Notebooks sharing functionality and take it from [this link](https://anaconda.cloud/share/notebooks/b9ca8755-e281-4e90-8de0-8be082803308/overview)

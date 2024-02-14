@@ -30,6 +30,8 @@ If you prefer to download file from here you'd need:
 - Use the provided widgets and controls to interact with the data.
 - Explore population statistics and square areas for different Frankfurt districts.
 
+![Dashboard Screenshot](screenshot.png)
+
 ## Notes
 
 - Make sure to select the correct kernel as it provides necessary packages to run the code

@@ -46,9 +46,10 @@ if __name__ == "__main__":
         responses = pool.map(get_state_translators, states)
     for response in responses:
         all_translators_list.extend(response)
+    export_to_csv(all_translators_list, "list_output.csv")
 
-if __name__ == "__main__":
-    with Pool(16) as pool:
-        persons = pool.map(get_person_details, all_translators_list)
-
-    export_to_csv(persons, "full_output.csv")
+# if __name__ == "__main__":
+#     with Pool(16) as pool:
+#         persons = pool.map(get_person_details, all_translators_list)
+#
+#     export_to_csv(persons, "full_output.csv")
